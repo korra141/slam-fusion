@@ -1,0 +1,3 @@
+[submodule "src/SuperOdom"]
+	path = src/SuperOdom
+	url = https://github.com/korra141/SuperOdom.git
