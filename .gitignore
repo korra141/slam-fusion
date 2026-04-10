@@ -6,3 +6,6 @@ TODO.md
 data_collection.md
 src/livox_ros_driver2/*
 src/rviz_2d_overlay_plugins/*
+
+# Results bags
+results/
